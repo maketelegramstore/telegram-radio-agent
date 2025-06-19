@@ -36,7 +36,7 @@ Our smart assistant will use Google's Artificial Intelligence (AI) to convert te
 
 1. **Go to the Google AI Studio website:**
    
-   * Open a new browser tab and go to the link: `https://aistudio.google.com/app/apikey`
+   * Open a new browser tab and go to the link: [geminiApiKey](https://aistudio.google.com/app/apikey)
    * If you're not already signed into your Google account, the system will ask you to do so. Use the same account you use for Google Sheets.
 
 2. **Create a new API key:**
