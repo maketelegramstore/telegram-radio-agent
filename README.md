@@ -1,4 +1,4 @@
-# 📻 Telegram Radio Channel Agent: Turning Text into an Audio Stream
+# 📻 Telegram Radio Channel Agent: Turning Text into an Audio Stream(https://t.me/AssistantAIs)
 
 ## Project Overview
 
