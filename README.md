@@ -124,10 +124,6 @@ We strive to make this technology as accessible as possible:
     exactly 30 different voices.
 *   **Hosting and Support:** Despite free keys, the agent requires hosting
     and ongoing support, as AI technologies and APIs are constantly evolving.
-*   **Flexible Monetization:** To cover infrastructure and development costs,
-    we offer two models:
-    *   **Small advertisements:** Integration of non-intrusive ads into
-        the content or interface.
 
 ## Who Is This Project For
 
