@@ -128,10 +128,6 @@ We strive to make this technology as accessible as possible:
     we offer two models:
     *   **Small advertisements:** Integration of non-intrusive ads into
         the content or interface.
-    *   **Minimal subscription:** An estimated cost of just $2 per month.
-        This is a symbolic amount for both owners of large Telegram channels
-        and individual users (e.g., students learning a language) who wish
-        to access advanced AI capabilities.
 
 ## Who Is This Project For
 
