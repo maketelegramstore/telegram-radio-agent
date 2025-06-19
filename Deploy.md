@@ -18,7 +18,7 @@ Our "control panel" is a special Google Sheet where we'll store all the importan
 
 1. **Open the template sheet:**
    
-   * Go to this link: `[tg-radio-agent - Google Таблицы](https://docs.google.com/spreadsheets/d/1tprxNvegnQAbL8rsVU4eM7YzS2YEPVGaZRrxiSXIpBs/edit?usp=sharing)`
+   * Go to this link: [tg-radio-agent - Google Таблицы](https://docs.google.com/spreadsheets/d/1tprxNvegnQAbL8rsVU4eM7YzS2YEPVGaZRrxiSXIpBs/edit?usp=sharing)
    * This is the "ru version" (Russian version) of our sheet.
 
 2. **Make your own copy of the sheet:**
